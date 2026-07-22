@@ -10,7 +10,7 @@
 ---
 
 
-# 🚀 Task 1 – NeuroFlow AI Landing Page
+## 🚀 Task 1 – NeuroFlow AI Landing Page
 
 A modern and responsive landing page for **NeuroFlow AI**, a fictional AI automation platform. The project focuses on creating a clean, professional, and user-friendly interface using only HTML5 and CSS3.
 
@@ -40,33 +40,15 @@ A modern and responsive landing page for **NeuroFlow AI**, a fictional AI automa
 
 ## 📸 Project Preview
 
-> *(E:\OIBSIP\WebDev-L1-LandingPage\images\image1.png)*
-
-Example:
-
-```
-images/preview.png
-```
-
-Then use:
-
-```md
-![NeuroFlow AI Landing Page](images/preview.png)
+![NeuroFlow AI Landing Page](images/image1.png)
 ```
 
 ---
 
-## 📁 Project Folder
 
-```
-WebDev-L1-LandingPage/
-│
-├── index.html
-├── style.css
-└── images/
-```
 
----
+
+
 
 ## 🎯 Internship Objective
 
