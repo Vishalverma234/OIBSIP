@@ -1,23 +1,14 @@
-# 🌟 Oasis Infobyte Web Development Internship (OIBSIP)
+# 🌍 NeuroFlow AI - Landing Page
 
-Welcome to my **Oasis Infobyte Web Development Internship** repository. This repository contains all the tasks completed during the internship, showcasing my front-end web development skills using HTML, CSS, and JavaScript.
 
----
+## 📌 OIBSIP Web Development and Designing Internship
 
-## 📂 Repository Structure
+**Level:** Level 1  
+**Task:** Task 1 - Landing Page
 
-```
-OIBSIP/
-│
-├── WebDev-L1-LandingPage/
-│   ├── index.html
-│   ├── style.css
-│   └── images/
-│
-└── README.md
-```
 
 ---
+
 
 # 🚀 Task 1 – NeuroFlow AI Landing Page
 
@@ -49,7 +40,7 @@ A modern and responsive landing page for **NeuroFlow AI**, a fictional AI automa
 
 ## 📸 Project Preview
 
-> *(Add screenshots here after uploading them to the repository.)*
+> *(E:\OIBSIP\WebDev-L1-LandingPage\images\image1.png)*
 
 Example:
 
@@ -94,7 +85,7 @@ The objective of this task was to build a visually appealing and responsive land
 **Vishal Verma**
 
 - GitHub: https://github.com/Vishalverma234
-- LinkedIn: *(Add your LinkedIn profile link here)*
+- LinkedIn: https://www.linkedin.com/in/vishal-verma-a1763b302/ 
 
 ---
 
