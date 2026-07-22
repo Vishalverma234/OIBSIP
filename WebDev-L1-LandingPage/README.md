@@ -41,15 +41,8 @@ A modern and responsive landing page for **NeuroFlow AI**, a fictional AI automa
 ## 📸 Project Preview
 
 ![NeuroFlow AI Landing Page](images/image1.png)
-```
 
 ---
-
-
-
-
-
-
 ## 🎯 Internship Objective
 
 The objective of this task was to build a visually appealing and responsive landing page while strengthening core front-end development skills such as:
