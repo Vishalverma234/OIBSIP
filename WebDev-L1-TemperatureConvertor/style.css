@@ -1,0 +1,244 @@
+
+/* =========================
+   RESET
+========================= */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* =========================
+   BODY
+========================= */
+
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-family: Arial, sans-serif;
+
+    background: linear-gradient(135deg, #4facfe, #00f2fe);
+
+    padding: 20px;
+}
+
+
+/* =========================
+   MAIN CONTAINER
+========================= */
+
+.container {
+    width: 100%;
+    max-width: 500px;
+}
+
+
+/* =========================
+   HEADING
+========================= */
+
+.container h1 {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+
+
+/* =========================
+   CONVERTER CARD
+========================= */
+
+.converter {
+    background: white;
+
+    padding: 30px;
+
+    border-radius: 20px;
+
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
+}
+
+
+/* =========================
+   INPUT GROUP
+========================= */
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+.input-group label {
+    display: block;
+
+    font-size: 15px;
+    font-weight: bold;
+
+    margin-bottom: 8px;
+
+    color: #333;
+}
+
+
+/* =========================
+   INPUT + SELECT
+========================= */
+
+input,
+select {
+    width: 100%;
+
+    padding: 13px 15px;
+
+    border: 1px solid #ddd;
+
+    border-radius: 10px;
+
+    font-size: 16px;
+
+    outline: none;
+
+    transition: 0.3s;
+}
+
+input:focus,
+select:focus {
+    border-color: #4facfe;
+
+    box-shadow: 0 0 0 3px rgba(79, 172, 254, 0.15);
+}
+
+
+/* =========================
+   ERROR MESSAGE
+========================= */
+
+#error-message {
+    color: #e63946;
+
+    font-size: 14px;
+
+    margin-bottom: 15px;
+
+    min-height: 18px;
+}
+
+
+/* =========================
+   CONVERT BUTTON
+========================= */
+
+#convert-btn {
+    width: 100%;
+
+    padding: 14px;
+
+    border: none;
+
+    border-radius: 10px;
+
+    background: #4facfe;
+
+    color: white;
+
+    font-size: 17px;
+
+    font-weight: bold;
+
+    cursor: pointer;
+
+    transition: 0.3s;
+}
+
+#convert-btn:hover {
+    background: #1683e8;
+
+    transform: translateY(-2px);
+}
+
+
+/* =========================
+   RESULT SECTION
+========================= */
+
+.result {
+    margin-top: 25px;
+
+    padding-top: 20px;
+
+    border-top: 1px solid #eee;
+}
+
+.result h2 {
+    text-align: center;
+
+    margin-bottom: 15px;
+
+    color: #333;
+
+    font-size: 22px;
+}
+
+
+/* =========================
+   RESULT ITEMS
+========================= */
+
+.result-item {
+    display: flex;
+
+    justify-content: space-between;
+    align-items: center;
+
+    background: #f5f9ff;
+
+    padding: 14px 16px;
+
+    margin-bottom: 10px;
+
+    border-radius: 10px;
+}
+
+.result-item span {
+    color: #555;
+
+    font-weight: 500;
+}
+
+.result-item strong {
+    color: #1683e8;
+
+    font-size: 17px;
+}
+
+
+/* =========================
+   RESPONSIVE DESIGN
+========================= */
+
+@media (max-width: 500px) {
+
+    .container h1 {
+        font-size: 28px;
+    }
+
+    .converter {
+        padding: 22px;
+    }
+
+    .subtitle {
+        font-size: 14px;
+    }
+}
